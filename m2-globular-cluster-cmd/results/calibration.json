@@ -1,0 +1,21 @@
+{
+  "gaia_catalogue": "Gaia DR2 (VizieR I/345/gaia2), 2 arcmin cone",
+  "n_matched_VR": 565,
+  "n_gaia_matches": 147,
+  "n_calibrators": {
+    "V": 74,
+    "R": 60
+  },
+  "V": {
+    "zp": 25.4162,
+    "zp_err": 0.0101,
+    "scatter": 0.0867,
+    "residual_colour_slope": -0.077
+  },
+  "R": {
+    "zp": 25.6743,
+    "zp_err": 0.0074,
+    "scatter": 0.0574,
+    "residual_colour_slope": 0.041
+  }
+}
